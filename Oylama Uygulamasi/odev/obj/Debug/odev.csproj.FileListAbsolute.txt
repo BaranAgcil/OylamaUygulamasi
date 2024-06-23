@@ -1,0 +1,7 @@
+C:\Users\Baran\Desktop\Ödev\odev\bin\Debug\odev.exe.config
+C:\Users\Baran\Desktop\Ödev\odev\bin\Debug\odev.exe
+C:\Users\Baran\Desktop\Ödev\odev\bin\Debug\odev.pdb
+C:\Users\Baran\Desktop\Ödev\odev\obj\Debug\odev.csproj.AssemblyReference.cache
+C:\Users\Baran\Desktop\Ödev\odev\obj\Debug\odev.csproj.CoreCompileInputs.cache
+C:\Users\Baran\Desktop\Ödev\odev\obj\Debug\odev.exe
+C:\Users\Baran\Desktop\Ödev\odev\obj\Debug\odev.pdb
